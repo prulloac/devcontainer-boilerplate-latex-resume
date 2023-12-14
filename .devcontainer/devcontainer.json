@@ -9,8 +9,8 @@
 			"configureZshAsDefaultShell": true
 		},
 		"ghcr.io/devcontainers/features/git:1": {},
-		"ghcr.io/prulloac/devcontainer-features/latex:1.0.5": {
-			"scheme": "full"
+		"ghcr.io/prulloac/devcontainer-features/latex:1": {
+			"packages": "collection-latexrecommended, collection-fontsextra, collection-pictures, paracol, xstring, titlesec"
 		}
 	}
 
